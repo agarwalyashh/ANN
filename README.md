@@ -1,0 +1,1 @@
+Dataset is about weather in Australia taken from Kaggle . I have done EDA , feature engineering involving imputation, scaling, encoding bfore training my model. I have used Artificial Neural Networks to train my model using Keras and Tensorflow.
